@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href=https://dhaou-jawhar.github.io/my-path>
-    <img src="/images/dj.png/" alt="Dhaou Jawhar Logo" width="100" height="50">
+    <img src="/images/dj.png/" alt="Dhaou Jawhar Logo" width="50" height="70">
   </a>
 </p>
 
