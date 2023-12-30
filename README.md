@@ -345,7 +345,10 @@
 |279| [](#)
 
 
+<div align="center">
 ------- Spring Boot --------
+</div>
+
 ## Introduction
 
 1. ### What is Spring Framework?
@@ -2107,9 +2110,9 @@
 
 
 
-
+<div align="center">
 --------- Angular ----------
-
+</div>
 
 
 
