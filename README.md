@@ -11,6 +11,12 @@
 </p>
 
 ---
+<p align="center">
+  <a href=https://dhaou-jawhar.github.io/my-path>
+    <img src="/images/spring.png/" alt="Dhaou Jawhar Logo" width="350" height="120">
+  </a>
+</p>
+---
 
 ## Table of Contents
 
