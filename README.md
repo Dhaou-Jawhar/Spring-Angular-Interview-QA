@@ -1,4 +1,4 @@
-# Angular Interview Questions & Answers
+# SpringBoot - Angular Interview Questions & Answers
 
 > Click :star:if you like the project and follow [@DhaouJawhar](https://www.linkedin.com/in/dhaou-jawhar/) for technical updates. 
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Table of Contents
+## Spring Boot Table of Contents
 
 | No. | Questions                                                                                                                                                                |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -59,7 +59,7 @@
 
 ---
 
-### Table of Contents
+### Angular Table of Contents
 
 | No. | Questions |
 |---- | ---------
