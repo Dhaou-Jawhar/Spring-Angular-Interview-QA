@@ -11,11 +11,13 @@
 </p>
 
 ---
+
 <p align="center">
   <a href=https://dhaou-jawhar.github.io/my-path>
-    <img src="/images/spring.png/" alt="Dhaou Jawhar Logo" width="350" height="120">
+    <img src="/images/spring.png/" alt="Dhaou Jawhar Logo" width="350" height="100">
   </a>
 </p>
+
 ---
 
 ## Table of Contents
@@ -62,6 +64,14 @@
 | 36  | [What is the type ambiguity in constructor injection?](#What-is-the-type-ambiguity-in-constructor-injection)                                                             |
 | 37  | [How can we resolve type ambiguity in constructor injection?](#How-can-we-resolve-type-ambiguity-in-constructor-injection)                                               |
 | 38  | [More question will be added soon...](#More)
+
+---
+
+<p align="center">
+  <a href=https://dhaou-jawhar.github.io/my-path>
+    <img src="/images/angular.png/" alt="Dhaou Jawhar Logo" width="350" height="100">
+  </a>
+</p>
 
 ---
 
