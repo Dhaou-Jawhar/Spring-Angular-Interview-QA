@@ -8,6 +8,7 @@
   <a href=https://dhaou-jawhar.github.io/my-path>
     <img src="/images/dj.png/" alt="Dhaou Jawhar Logo" width="50" height="70">
   </a>
+  # Take a look
 </p>
 
 ---
